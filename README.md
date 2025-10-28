@@ -295,9 +295,9 @@ python main.py -f targets.txt -p 80,443,22
 
 ## 📞 联系方式
 
-- **作者**: Security Researcher
-- **邮箱**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **作者**: ttjiejei
+- **邮箱**: funtt2@foxmail.com
+- **GitHub**: [@ttjiejei](https://github.com/ttjiejei)
 
 ---
 
