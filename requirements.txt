@@ -1,0 +1,8 @@
+# Nmap Scanner - Python依赖
+# 本项目仅使用Python标准库，无需安装第三方包
+# Python版本要求: 3.6+
+
+# 如果需要安装Nmap，请参考以下链接：
+# Windows: https://nmap.org/download.html
+# Linux: sudo apt-get install nmap
+# macOS: brew install nmap
