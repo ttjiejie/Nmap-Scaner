@@ -295,9 +295,9 @@ python main.py -f targets.txt -p 80,443,22
 
 ## 📞 联系方式
 
-- **作者**: ttjiejei
+- **作者**: ttjiejie
 - **邮箱**: funtt2@foxmail.com
-- **GitHub**: [@ttjiejei](https://github.com/ttjiejei)
+- **GitHub**: [@ttjiejie](https://github.com/ttjiejie)
 
 ---
 
